@@ -2,7 +2,7 @@ package Demo;
 
 import java.util.Scanner;
 
-import day4.Customer;
+import day3.Customer;
 
 public class CustomerDemo {
 	public static void main(String args[])
