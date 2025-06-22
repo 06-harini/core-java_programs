@@ -1,4 +1,4 @@
-package day1;
+package demo1;
 import java.util.Scanner;
 
 public class Addition {
