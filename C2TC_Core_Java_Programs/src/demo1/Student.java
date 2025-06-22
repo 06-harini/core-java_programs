@@ -1,4 +1,4 @@
-package day1;
+package demo1;
 
 public class Student {
 	int id;
