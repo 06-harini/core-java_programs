@@ -14,9 +14,9 @@ public class UserInput {
 		System.out.println("Enter Your Email:");
 		String email = scanner.nextLine();
 		
-		System.out.println("Hello"+name);
-		System.out.println("Your rating is:" + rating);
-		System.out.println("Email is" + email);
+		System.out.println("Hello "+name);
+		System.out.println("Your rating is: " + rating);
+		System.out.println("Email is: " + email);
 
 	}
 
